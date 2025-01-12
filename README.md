@@ -8,4 +8,4 @@ Here's a quick overview of my latest project in data analysis: a dynamic and vis
 
 🔹 Geographical and Educational Insights: Incorporates region and education levels for deeper analysis.
 
-This dashboard provides actionable insights into customer preferences, helping businesses strategize effectively
+This dashboard provides actionable insights into customer preferences, helping businesses strategize effectively.
